@@ -1,0 +1,43 @@
+h1 {
+    color: blue;
+    background-color: #eeeeee;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 1000;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+header {
+    color: black;
+    background-color: #191819;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+    font-family: "Comic Sans MS", cursive;
+}
+
+.donate {
+    color: red;
+}
+
+nav {
+    margin-top: 2em;
+    border: solid 5px green;
+    border-radius: 10px;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    margin-left: 2em;
+    padding: 5em;
+}
+
+li a {
+    margin-left: 2em;
+    padding: 3em;
+}

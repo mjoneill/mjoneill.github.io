@@ -1,0 +1,62 @@
+h1 {
+    color: 36454f;
+    font-size: 72px;
+    font-style: italic;
+    font-weight: normal;
+    font-family: "Helvetica", roman;
+}
+
+header {
+    background-color: 9099A2;
+}
+
+nav {
+    background-color: 96858F;
+}
+
+.fauxhrs {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    display: inline-block;
+    margin-left: 1rem;
+}
+
+.left {
+    float: left;
+    text-align: left;
+}
+
+.right {
+    float: right;
+    text-align: right;
+}
+
+.footer-center {
+    text-align: center;
+}
+
+.img-float-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.backcolor {
+    background-color: D5D5D5;
+}
+
+ul {
+    clear: both;
+    overflow: hidden;
+}
+
+.clearfix {
+    clear: both;
+    overflow: hidden;
+}

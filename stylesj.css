@@ -1,0 +1,23 @@
+* {
+  font-family: cursive;
+    }
+  .donations{
+    font-weight: bold;
+    text-shadow: 1px 1.5px #838384;
+  }
+  .foster{
+    font-style: italic;
+  }
+nav a{
+margin-left: 2em;
+}
+
+h1 {color:#abb9d1;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-align: center;
+    }
+h3 {color:purple}
+footer{
+  text-align: center;
+}
